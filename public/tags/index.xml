@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Carbo&#39;s Blog</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Carbo&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Carbo</copyright>
+    <lastBuildDate>Sun, 07 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Cyberdefenders</title>
+      <link>http://localhost:1313/tags/cyberdefenders/</link>
+      <pubDate>Sun, 07 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/cyberdefenders/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Forensics</title>
+      <link>http://localhost:1313/tags/forensics/</link>
+      <pubDate>Sun, 07 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/forensics/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Memory-Dump</title>
+      <link>http://localhost:1313/tags/memory-dump/</link>
+      <pubDate>Sun, 07 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/memory-dump/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Volatility3</title>
+      <link>http://localhost:1313/tags/volatility3/</link>
+      <pubDate>Sun, 07 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/volatility3/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
